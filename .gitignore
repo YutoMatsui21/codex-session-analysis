@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local Codex logs and secrets
+.codex/
+*.jsonl
+.env
+.env.*
